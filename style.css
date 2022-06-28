@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #3498DB ;
+    background-color: #201e2d ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,7 +12,7 @@ body {
     margin: 0;
 }
 
-h3{
+h2{
     color: white;
     margin: 20px;
 }
@@ -26,15 +26,15 @@ textarea {
 }
 
 .tag {
-    background-color: orange;
+    background-color: #ff8906;
     color: white;
     border-radius: 50px;
     padding: 5px 20px;
     margin: 0 5px 10px 0;
-    font-size: 14px;
+    font-size: 20px;
     display: inline-block;
 }
 
 .tag.highlight{
-    background-color: darkblue;
+    background-color: #e53170;
 }
